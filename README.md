@@ -562,21 +562,7 @@ If you find this project helpful, please consider giving it a ⭐!
 
 ---
 
-## 📸 Screenshots
 
-### Main Dashboard
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Main+Dashboard+Screenshot)
-
-### Neural Network Visualization
-![Neural Network](https://via.placeholder.com/800x400/764ba2/ffffff?text=Neural+Network+Visualization)
-
-### Show All Cars Mode
-![All Cars](https://via.placeholder.com/800x400/10b981/ffffff?text=Show+All+Cars+Mode)
-
-### Training Progress
-![Training](https://via.placeholder.com/800x400/f59e0b/ffffff?text=Training+Progress)
-
----
 
 <div align="center">
 
